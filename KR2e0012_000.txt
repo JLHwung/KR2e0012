@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 松漠紀聞
+#+DATE: 2015-08-24 22:30:13.152752
+#+PROPERTY: ID KR2e0012
+#+PROPERTY: BASEEDITION WYG    
